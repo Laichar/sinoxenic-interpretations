@@ -1,0 +1,32 @@
+{
+	"BookName":"華夷譯語（六）"
+	"Pages":"68",
+	"Categories": [
+		{ "OfAstronomy":[
+			{
+				"zh":"天",
+				"en":"sky",
+				"fa":"Asmaan",
+				"zh-trans":"阿恩媽恩"
+			},
+			{
+				"zh":"日",
+				"en":"sun",
+				"fa":"Aftaab",
+				"zh-trans":"阿夫他卜"
+			},
+			{
+				"zh":"月",
+				"en":"moon",
+				"fa":"maah",
+				"zh-trans":"媽黑"
+			},
+			{
+				"zh":"星",
+				"en":"star",
+				"fa":"sitaareh",
+				"zh-trans":"洗他勒"
+			}]
+		}
+	]
+}
