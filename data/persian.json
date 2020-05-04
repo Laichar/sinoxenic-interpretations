@@ -1,6 +1,7 @@
 {
 	"BookName":"華夷譯語（六）",
 	"Pages":"68",
+	"NativeLanguage":"fa",
 	"Categories": [
 		{ "OfAstronomy":[
 			{
@@ -26,6 +27,24 @@
 				"en":"star",
 				"fa":"sitaareh",
 				"zh-trans":"洗他勒"
+			},
+			{
+				"zh":"雲",
+				"en":"cloud",
+				"fa":"aabar",
+				"zh-trans":"阿卜兒"
+			},
+			{
+				"zh":"風",
+				"en":"wind",
+				"fa":"baad",
+				"zh-trans":"巴得"
+			},
+			{
+				"zh":"雨",
+				"en":"rain",
+				"fa":"baaraan",
+				"zh-trans":"巴剌恩"
 			}]
 		}
 	]
